@@ -18,6 +18,9 @@ since they wrote the code, and meanwhile I am listed as committer. This
 is an accurate way to commit code by others IMO and I hope that others
 see it this way too.
 
+[I've asked them both if they think this is OK](https://www.reddit.com/r/web_design/comments/5oxc7b/elite_dangerous_inspired_loader_pure_css/dcnxw2a/),
+so we'll see what they say.
+
 ## Copyright and license
 
 The contents of this repository is created from code authored by
