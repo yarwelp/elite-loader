@@ -2,7 +2,7 @@
 
 This repository was constructed based upon source files from:
 
-  * The original pure CSS codepen by James Panther available at
+  * The original pure CSS codepen by James Panter available at
     http://codepen.io/jpanter/pen/PWWQXK/, released under the
     MIT license according to
     http://codepen.io/jpanter/details/PWWQXK/#details-tab-license.
