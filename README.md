@@ -22,4 +22,6 @@ others see it this way too.
 
 The contents of this repository is created from contents authored by
 James Panther and Rob Speed, both of whom released their work under
-the MIT license according to the links provided above.
+the MIT license according to the links provided above. See the file
+`LICENSE` for details including the names and times of copyrights
+as well as the terms of the MIT license.
