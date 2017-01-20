@@ -14,9 +14,9 @@ This repository was constructed based upon source files from:
 
 The authors of each of these codepens were not involved in the creation
 of this git repository but I have provided their names as authors to git
-since they wrote the contents, and meanwhile I am listed as committer.
-This is an accurate way to commit code by others IMO and I hope that
-others see it this way too.
+since they wrote the code, and meanwhile I am listed as committer. This
+is an accurate way to commit code by others IMO and I hope that others
+see it this way too.
 
 ## Copyright and license
 
